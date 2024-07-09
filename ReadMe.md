@@ -1,0 +1,1 @@
+U6899-7808 The goal of this project is to create a dynamic meet the team page using react
